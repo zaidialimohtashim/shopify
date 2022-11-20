@@ -1,0 +1,1 @@
+{{URL::to($featured_image)}}
